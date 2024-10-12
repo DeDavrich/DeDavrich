@@ -1,8 +1,8 @@
 # About me
 <p><h2>👋🏻Hey! I'm Davron Xaitov. I'm Backend developer.</h2></p>
 
-- Leetcode:                           [otajonbozorboyev571](https://https://leetcode.com/u/Davron_Xaitov/)
-- Telegram:                           [otajonbozorboyev](https://t.me/DeDavrich)
+- Leetcode:                           [Davron_Xaitov](https://https://leetcode.com/u/Davron_Xaitov/)
+- Telegram:                           [Xaitov Davronbek](https://t.me/DeDavrich)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=c++,python,django,html,css,react,nodejs)](https://skillicons.dev)
 
